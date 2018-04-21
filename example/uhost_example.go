@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/ucloud/ucloud-sdk-go/service/uhost"
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
-	"github.com/ucloud/ucloud-sdk-go/ucloud/utils"
+	"github.com/dale-di/ucloud-sdk-go/service/uhost"
+	"github.com/dale-di/ucloud-sdk-go/ucloud"
+	"github.com/dale-di/ucloud-sdk-go/ucloud/auth"
+	"github.com/dale-di/ucloud-sdk-go/ucloud/utils"
 )
 
 func main() {

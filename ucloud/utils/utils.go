@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/ucloud/ucloud-sdk-go/ucloud/auth"
+	"github.com/dale-di/ucloud-sdk-go/ucloud/auth"
 )
 
 func ConvertParamsToValues(params interface{}, values *url.Values) {

@@ -1,7 +1,7 @@
 package unet
 
 import (
-	"github.com/ucloud/ucloud-sdk-go/ucloud"
+	"github.com/dale-di/ucloud-sdk-go/ucloud"
 )
 
 type AllocateEIPParams struct {
